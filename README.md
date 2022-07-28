@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viraj-mewal
 - 👀 I’m interested in programming and tech
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me amanmeena19.2007@gmail.com (my gmail)
 
